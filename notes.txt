@@ -16,11 +16,11 @@ Usuário:
 
 CRUD de Usuários
 
-[ ] - Criar um Usuário
-[ ] - Listar todos os Usuários
-[ ] - Listar um Usuário
-[ ] - Atualizar um Usuário
-[ ] - Remover um Usuário
+[X] - Criar um Usuário
+[X] - Listar todos os Usuários
+[X] - Listar um Usuário
+[X] - Atualizar um Usuário
+[X] - Remover um Usuário
 
 Categoria:
 - Id

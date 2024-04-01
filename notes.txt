@@ -1,0 +1,54 @@
+Requisitos técnicos
+- Typescript
+- Banco: MongoDB
+- ORM: mongoose
+- transpile: ts-node
+- nodemon para live reload
+- Framework - express
+- Testes: Jest
+
+Usuário:
+- Id
+- Node
+- Peso
+- Senha
+- Email
+
+CRUD de Usuários
+
+[ ] - Criar um Usuário
+[ ] - Listar todos os Usuários
+[ ] - Listar um Usuário
+[ ] - Atualizar um Usuário
+[ ] - Remover um Usuário
+
+Categoria:
+- Id
+- Nome
+- Cor
+
+CRUD de Categorias
+
+[ ] - Criar uma Categoria
+[ ] - Listar todos as Categorias
+[ ] - Listar uma Categoria
+[ ] - Atualizar uma Categoria
+[ ] - Remover uma Categoria
+
+Tarefas:
+- ID
+- Título
+- Descrição
+- Data_Criação
+- Data_Conclusão
+- Tipo
+- Status (pendente, em andamento, concluída)
+- Usuário_Associado.
+
+CRUD de Categorias
+
+[ ] - Criar uma Categoria
+[ ] - Listar todos as Categorias
+[ ] - Listar uma Categoria
+[ ] - Atualizar uma Categoria
+[ ] - Remover uma Categoria

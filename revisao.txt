@@ -7,6 +7,7 @@ Requisito
 - nodemon para livre reaload
 - Framework - express
 - Teste: Jest
+- Insomia: Crud test
 
 Terminal - Dep
 

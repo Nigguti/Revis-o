@@ -23,7 +23,7 @@ class userController {
         return res.json(updateUser)
     }
 
-    async delecte(req: Request, res: Response){
+    async delete(req: Request, res: Response){
        const deleteUser = await userService;deleteUser(req.params.id)
        return res.json(deleteUser)
     }

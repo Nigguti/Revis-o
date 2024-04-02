@@ -9,18 +9,18 @@ Requisitos técnicos
 
 Usuário:
 - Id
-- Node
+- Nome
 - Peso
 - Senha
 - Email
 
 CRUD de Usuários
 
-[X] - Criar um Usuário
-[X] - Listar todos os Usuários
-[X] - Listar um Usuário
-[X] - Atualizar um Usuário
-[X] - Remover um Usuário
+[ ] - Criar um Usuário
+[ ] - Listar todos os Usuários
+[ ] - Listar um Usuário
+[ ] - Atualizar um Usuário
+[ ] - Remover um Usuário
 
 Categoria:
 - Id

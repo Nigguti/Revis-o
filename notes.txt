@@ -16,11 +16,11 @@ Usuário:
 
 CRUD de Usuários
 
-[ ] - Criar um Usuário
-[ ] - Listar todos os Usuários
-[ ] - Listar um Usuário
-[ ] - Atualizar um Usuário
-[ ] - Remover um Usuário
+[X] - Criar um Usuário
+[X] - Listar todos os Usuários
+[X] - Listar um Usuário
+[X] - Atualizar um Usuário
+[X] - Remover um Usuário
 
 Categoria:
 - Id
@@ -29,11 +29,11 @@ Categoria:
 
 CRUD de Categorias
 
-[ ] - Criar uma Categoria
-[ ] - Listar todos as Categorias
-[ ] - Listar uma Categoria
-[ ] - Atualizar uma Categoria
-[ ] - Remover uma Categoria
+[X] - Criar uma Categoria
+[X] - Listar todos as Categorias
+[X] - Listar uma Categoria
+[X] - Atualizar uma Categoria
+[X] - Remover uma Categoria
 
 Tarefas:
 - ID

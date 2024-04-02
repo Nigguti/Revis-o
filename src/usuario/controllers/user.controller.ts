@@ -1,5 +1,5 @@
 import {Request, Response} from 'express'
-import userService from "../services/user.services";
+import userService from "./usuario/services/user.services";
 
 
 class userController {
@@ -25,7 +25,7 @@ class userController {
     }
 
     async delete(req: Request, res: Response){
-       const deleteUser = await userService;deleteUser(req.params.id)
+       const deleteUser = await userService.deleteUser(req.params.id)
        return res.json(deleteUser)
     }
 

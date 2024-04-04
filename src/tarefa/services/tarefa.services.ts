@@ -1,7 +1,7 @@
 import { tarefasTypes } from "../types/tarefas.types";
 import tarefasModel from "../schemas/tarefas.schemas";
 
-class tarefasService {
+class tarefaService {
     async created(tarefa: tarefasTypes) {
         const createdTarefa = await tarefasModel.create(tarefa)
         return createdTarefa

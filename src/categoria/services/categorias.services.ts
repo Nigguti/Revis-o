@@ -38,3 +38,5 @@ class categoriaServices {
         }
     }
 }
+
+export default new categoriaServices()

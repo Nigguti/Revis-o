@@ -1,3 +1,4 @@
+import tarefaServices from "../../tarefa/services/tarefa.services";
 import userModel from "../schemas/user.schema";
 import { UserType } from "../types/user.type";
 
@@ -42,3 +43,5 @@ async delete(id:string) {
     }
 }
 }
+
+export default new tarefaServices

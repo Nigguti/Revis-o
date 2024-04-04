@@ -40,3 +40,5 @@ class tarefaService {
     }
 
 }
+
+export default new tarefaService()
